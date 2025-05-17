@@ -4,12 +4,12 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="NextMind AI — Book Forecast Tool", layout="centered")
+st.set_page_config(page_title="NexMindAi — Book Forecast Tool", layout="centered")
 
 # Logo and Title
-st.image("https://i.imgur.com/AjWQBZZ.png", width=200)
-st.title("NextMind AI — Book Inventory Forecast Tool")
-st.caption("Made by NexMind AI — because smart stock saves profit.")
+st.image("https://raw.githubusercontent.com/Nexmindaiii/inventory-forecast-demo/main/nexmind-ai-logo.jpeg", width=200)
+st.title("NexMindAi — Book Inventory Forecast Tool")
+st.caption("Made by NexMindAi — because smart stock saves profit.")
 
 st.write("Upload your sales data or use sample data below to forecast next month's inventory needs.")
 
