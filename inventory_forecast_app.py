@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="NextMind AI — Book Forecast Tool", layout="centered")
 
 # Logo and Title
-st.image("https://i.imgur.com/felAWP1.png", width=200)
+st.image("https://i.imgur.com/AjWQBZZ.png", width=200)
 st.title("NextMind AI — Book Inventory Forecast Tool")
 st.caption("Made by NexMind AI — because smart stock saves profit.")
 
